@@ -1,0 +1,5 @@
+es2RenderToTexture/.gradle/
+es2RenderToTexture/.idea
+es2RenderToTexture/app/app.iml
+es2RenderToTexture/gradle.properties
+es2RenderToTexture/local.properties
